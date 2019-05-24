@@ -44,3 +44,10 @@
 　（動作確認用に使えるビュワー）
     - http://sites.cybernoids.jp/cubism2/tools/live2d-viewer
 
+
+
+## やっていき
+- 開発環境を整える。
+    - 上記ツールのインストール
+    - 画像データの用意（png, psd）
+    
