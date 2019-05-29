@@ -44,6 +44,7 @@
 　（動作確認用に使えるビュワー）
     - http://sites.cybernoids.jp/cubism2/tools/live2d-viewer
 
+7. **画力**
 
 
 ## やっていき
